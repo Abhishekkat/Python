@@ -1,5 +1,20 @@
 ## Assignment Part-1
 Q1. Why do we call Python as a general purpose and high-level programming language?
+1. The language that is not created for a specific domain or device.
+2. that can solve a wide variety of problems.
+3. Python one of language that is being used WEB development,Data science,cloud etc..
+
+High Level language ::
+
+There are two type of language basiclly one is low level and high level.
+
+Let's talk about first low level 
+
+as we know machine can only understand zero's and one's that is called low level language.
+High level langeage means the langage that can written by human or human understandable langage.
+
+
+
 
 Q2. Why is Python called a dynamically typed language?
 
